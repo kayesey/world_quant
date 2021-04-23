@@ -1,0 +1,3 @@
+This is a new file.I am practicing writing data to disk.This is an good introductory course to python programming and file operations
+Adding a new line to the file.
+We are adding new set of lines to the data file.
